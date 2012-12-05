@@ -1,6 +1,8 @@
 android-helloworld
 ==================
 
-checking android sdk. following a hello world tutorial
+checking android sdk.
 
-following the guide on http://wiki.jetbrains.net/intellij/Developing_applications_for_Android_in_IntelliJ_IDEA
+following the hello world guide on 
+
+http://wiki.jetbrains.net/intellij/Developing_applications_for_Android_in_IntelliJ_IDEA
